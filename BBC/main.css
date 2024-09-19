@@ -1,0 +1,107 @@
+#topBar1 {
+    background-color: white;
+    height: 64px;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+#topBar1 form {
+    display: flex;
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#topBar1 input[type="text"] {
+    width: 180px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 5px;
+    background-color: #D3D3D3;
+}
+#topBar1 input[type="text"]::placeholder {
+    font-weight: bold;
+    color: black;
+}
+
+
+#topBar2{
+    background-color: #ffd230;
+    height: 60px;
+    border-bottom: 1px solid; #ccc;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+#topBar3{
+    background-color: #ffd230;
+    height: 40px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position:relative;
+
+
+}
+
+#img1{
+  width: 119px;
+  margin-left: 130px;
+  float: left;
+  margin-top: 15px;
+  margin-bottom: 15px;
+        
+}
+#img2{
+    width: 155px;
+    float: left;
+    margin-top: 18px;
+    margin-bottom: 15px;
+    margin-left: 11px;
+    cursor: pointer;
+}
+
+#button{
+    font-weight: bold;
+    font-size: 12px;
+    float: left;
+    font-family: Arial, sans-serif;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+#button1{
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    margin-left: 50px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+#SPORT {
+    font-size: 38px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 130px;
+}
+
+
+#button3, #divider{
+    margin-left: 6px;
+    float: left ;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    position: relative;
+    padding-left: 10px;
+    
+
+    
+}
+
+
